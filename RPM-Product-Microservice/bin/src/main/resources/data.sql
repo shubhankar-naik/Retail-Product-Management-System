@@ -1,0 +1,5 @@
+insert into product(id,name,price,description,image_name,rating,user_rated) values(1,'Headphone',2000,'imageName','https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80',0,0);
+insert into product(id,name,price,description,image_name,rating,user_rated) values(2,'Mobile',20000,'imageName','https://images.unsplash.com/photo-1528795259021-d8c86e14354c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1055&q=80',0,0);
+insert into product(id,name,price,description,image_name,rating,user_rated) values(3,'Tablet',22000,'imageName','https://images.unsplash.com/photo-1526430752879-b9eb53fbd772?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80',0,0);
+insert into product(id,name,price,description,image_name,rating,user_rated) values(4,'Laptop',30000,'imageName','https://images.unsplash.com/photo-1515343480029-43cdfe6b6aae?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=80',0,0);
+
